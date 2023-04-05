@@ -1,0 +1,23 @@
+footer {
+    align-items: center;
+    background-color: deepskyblue;
+    display: flex;
+    height: 65px;
+    justify-content: space-between;
+}
+
+.rede { 
+    display: flex;
+    width: 100%;
+}
+.rede1 {
+    padding-right: 1.25;
+    width: 3%;
+}
+
+.dr {
+color: var(red);
+}
+
+.conteiner { width: 100%;
+}

@@ -1,16 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+  --branco-principal: #ffffff;
+  --cinza-secundario: #c0c0c0;
+  --botao-azul: #167bf7;
+  --cor-de-fundo: #00030c;
+  --fonte-inter: 'Inter', sans-serif;
+  --botao-azul-efeito: #3C92FA;
 }
 
 body {
-    background-color: var(--cor-de-fundo);
-    color: var(--branco-principal);
+  background-color: var(--cor-de-fundo);
+  color: var(--branco-principal);
+  font-family: var(--fonte-inter);
+  font-size: 16px;
+  font-weight: 400;
 }
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.principal {
+    background-image: url("/ESTUDOS/sites/estudos2/img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+
+}
+.container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 40% 50%;
+}
+.container_box {
+  margin: 0 6em;
+}
+.container_title {
+  font-size: 28px;
+}
+.container_button {
+background-color: var(--botao-azul);
+border-radius: 5px;
+padding: 1em;
+color: var(--branco-principal);
+display: block;
+text-decoration: none;
+margin-bottom: 1em;
+}
+.button_sec {
+  background-color: transparent;
+  border: 2px solid;
+}
+.container_p {
+  font-size: 12px;
+  color: var(--cinza-secundario);
+}
+
+.container_img {
+  margin: 1em 0 2em 0;
+}
+.container_sec_img {
+  width: 80%;
+}
+
+.secundario {
+  align-items: center;
+  margin: 0 10em;
+}
+
+.container_descricao {
+  padding: 2em;
+}
+
+.title_edit {
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--branco-principal);
+  margin-bottom: 0.1em;;
+}
+
+.text_edit {
+  color: var(--cinza-secundario);
+}
+.button_sec_sec {
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.text_edit {
+  color: var(--cinza-secundario);
+  padding-right: 1em;
+}
+
+
+.dispositivos {
+  text-align: center;
+}
+
+.dispositivos_titulo {
+  font-size: 48px;
+  color: var(--branco-principal);
+}
+
+.dispositivos_lista {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 5em 0;
+}
+.lista_item {
+  font-size: 32px;
+  color: var(--branco-principal);
+}
+
+.rodape {
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ margin: 5rem 3rem;
+ font-size: 16px;
+}
+
+.rodape_logo{
+  width: 6rem;
+}
+
+.rodape_lista{
+   display: flex;
+   justify-content: center;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 16px;
+  margin-top: 1rem;
+}
+
+.lista_link{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 0 0 0.25em;
+}
+
+.lista_link_link{
+  text-decoration: none;
+  color: var(--branco-principal);
+}
+
+.rodape_texto{
+  color: var(--cinza-secundario);
+  font-size: 14px;
+  margin: 0.25em 0;
+}
+
+.lista_link a:hover {
+  color: var(--botao-azul);
+}
+
+.lista_link a:active{
+  color: purple;
+}
+
+.container_button:hover {
+  background-color: var(--botao-azul-efeito);
+  color: var(--cor-de-fundo);
 }

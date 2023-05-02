@@ -1,0 +1,15 @@
+C:\Users\ERICK\source\repos\licao26\licao26\bin\Debug\net7.0\licao26.exe
+C:\Users\ERICK\source\repos\licao26\licao26\bin\Debug\net7.0\licao26.deps.json
+C:\Users\ERICK\source\repos\licao26\licao26\bin\Debug\net7.0\licao26.runtimeconfig.json
+C:\Users\ERICK\source\repos\licao26\licao26\bin\Debug\net7.0\licao26.dll
+C:\Users\ERICK\source\repos\licao26\licao26\bin\Debug\net7.0\licao26.pdb
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.csproj.AssemblyReference.cache
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.AssemblyInfoInputs.cache
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.AssemblyInfo.cs
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.dll
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\refint\licao26.dll
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.pdb
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\licao26.genruntimeconfig.cache
+C:\Users\ERICK\source\repos\licao26\licao26\obj\Debug\net7.0\ref\licao26.dll

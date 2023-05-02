@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "licao20", "licao20\licao20.csproj", "{7CFC7F0D-C9D9-476E-B640-CC696927AA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFC7F0D-C9D9-476E-B640-CC696927AA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFC7F0D-C9D9-476E-B640-CC696927AA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFC7F0D-C9D9-476E-B640-CC696927AA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFC7F0D-C9D9-476E-B640-CC696927AA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA24FB4-05C5-41B4-B1DC-B8B3BE6BAE6F}
+	EndGlobalSection
+EndGlobal

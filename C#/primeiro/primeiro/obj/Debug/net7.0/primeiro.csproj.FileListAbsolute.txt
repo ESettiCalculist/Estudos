@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\bin\Debug\net7.0\primeiro.exe
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\bin\Debug\net7.0\primeiro.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\bin\Debug\net7.0\primeiro.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\bin\Debug\net7.0\primeiro.dll
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\bin\Debug\net7.0\primeiro.pdb
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.dll
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\refint\primeiro.dll
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.pdb
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\primeiro.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\primeiro\primeiro\obj\Debug\net7.0\ref\primeiro.dll

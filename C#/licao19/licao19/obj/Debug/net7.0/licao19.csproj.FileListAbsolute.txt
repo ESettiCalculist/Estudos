@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\bin\Debug\net7.0\licao19.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\bin\Debug\net7.0\licao19.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\bin\Debug\net7.0\licao19.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\bin\Debug\net7.0\licao19.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\bin\Debug\net7.0\licao19.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\refint\licao19.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\licao19.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao19\licao19\obj\Debug\net7.0\ref\licao19.dll

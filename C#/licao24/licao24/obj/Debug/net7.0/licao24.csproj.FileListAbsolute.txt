@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\bin\Debug\net7.0\licao24.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\bin\Debug\net7.0\licao24.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\bin\Debug\net7.0\licao24.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\bin\Debug\net7.0\licao24.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\bin\Debug\net7.0\licao24.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\refint\licao24.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\licao24.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao24\licao24\obj\Debug\net7.0\ref\licao24.dll

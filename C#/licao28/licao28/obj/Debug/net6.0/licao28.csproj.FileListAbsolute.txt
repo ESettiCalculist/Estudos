@@ -1,0 +1,15 @@
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.csproj.AssemblyReference.cache
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.AssemblyInfoInputs.cache
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.AssemblyInfo.cs
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\source\repos\licao28\licao28\bin\Debug\net6.0\licao28.exe
+C:\Users\ERICK\source\repos\licao28\licao28\bin\Debug\net6.0\licao28.deps.json
+C:\Users\ERICK\source\repos\licao28\licao28\bin\Debug\net6.0\licao28.runtimeconfig.json
+C:\Users\ERICK\source\repos\licao28\licao28\bin\Debug\net6.0\licao28.dll
+C:\Users\ERICK\source\repos\licao28\licao28\bin\Debug\net6.0\licao28.pdb
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.dll
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\refint\licao28.dll
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.pdb
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\licao28.genruntimeconfig.cache
+C:\Users\ERICK\source\repos\licao28\licao28\obj\Debug\net6.0\ref\licao28.dll

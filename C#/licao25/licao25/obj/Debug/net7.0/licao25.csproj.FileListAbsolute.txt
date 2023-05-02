@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\bin\Debug\net7.0\licao25.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\bin\Debug\net7.0\licao25.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\bin\Debug\net7.0\licao25.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\bin\Debug\net7.0\licao25.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\bin\Debug\net7.0\licao25.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\refint\licao25.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\licao25.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao25\licao25\obj\Debug\net7.0\ref\licao25.dll

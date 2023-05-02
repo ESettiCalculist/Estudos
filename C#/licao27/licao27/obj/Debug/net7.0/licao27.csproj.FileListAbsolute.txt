@@ -1,0 +1,5 @@
+C:\Users\ERICK\source\repos\licao27\licao27\obj\Debug\net7.0\licao27.csproj.AssemblyReference.cache
+C:\Users\ERICK\source\repos\licao27\licao27\obj\Debug\net7.0\licao27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\source\repos\licao27\licao27\obj\Debug\net7.0\licao27.AssemblyInfoInputs.cache
+C:\Users\ERICK\source\repos\licao27\licao27\obj\Debug\net7.0\licao27.AssemblyInfo.cs
+C:\Users\ERICK\source\repos\licao27\licao27\obj\Debug\net7.0\licao27.csproj.CoreCompileInputs.cache

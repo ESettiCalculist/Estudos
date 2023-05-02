@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\bin\Debug\net7.0\LiçãoNumero1.exe
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\bin\Debug\net7.0\LiçãoNumero1.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\bin\Debug\net7.0\LiçãoNumero1.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\bin\Debug\net7.0\LiçãoNumero1.dll
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\bin\Debug\net7.0\LiçãoNumero1.pdb
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.dll
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\refint\LiçãoNumero1.dll
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.pdb
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\LiçãoNumero1.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\LiçãoNumero1\LiçãoNumero1\obj\Debug\net7.0\ref\LiçãoNumero1.dll

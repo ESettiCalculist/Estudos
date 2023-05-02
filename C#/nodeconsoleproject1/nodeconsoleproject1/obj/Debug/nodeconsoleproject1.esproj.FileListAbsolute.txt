@@ -1,0 +1,2 @@
+C:\Users\ERICK\Documents\projetos de estudo\nodeconsoleproject1\nodeconsoleproject1\obj\Debug\nodeconsoleproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\ERICK\Documents\projetos de estudo\nodeconsoleproject1\nodeconsoleproject1\obj\Debug\nodeconsoleproject1.esproj.CoreCompileInputs.cache

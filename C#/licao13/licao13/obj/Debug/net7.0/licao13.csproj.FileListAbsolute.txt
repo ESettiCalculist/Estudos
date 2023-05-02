@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\bin\Debug\net7.0\licao13.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\bin\Debug\net7.0\licao13.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\bin\Debug\net7.0\licao13.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\bin\Debug\net7.0\licao13.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\bin\Debug\net7.0\licao13.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\refint\licao13.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\licao13.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao13\licao13\obj\Debug\net7.0\ref\licao13.dll

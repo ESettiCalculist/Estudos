@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\bin\Debug\net7.0\licao 21.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\bin\Debug\net7.0\licao 21.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\bin\Debug\net7.0\licao 21.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\bin\Debug\net7.0\licao 21.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\bin\Debug\net7.0\licao 21.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\refint\licao 21.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\licao 21.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao 21\licao 21\obj\Debug\net7.0\ref\licao 21.dll

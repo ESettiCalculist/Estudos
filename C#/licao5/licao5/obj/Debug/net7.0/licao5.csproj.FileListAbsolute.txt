@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\bin\Debug\net7.0\licao5.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\bin\Debug\net7.0\licao5.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\bin\Debug\net7.0\licao5.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\bin\Debug\net7.0\licao5.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\bin\Debug\net7.0\licao5.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\refint\licao5.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\licao5.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao5\licao5\obj\Debug\net7.0\ref\licao5.dll

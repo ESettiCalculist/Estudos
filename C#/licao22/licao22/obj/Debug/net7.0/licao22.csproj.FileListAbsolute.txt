@@ -1,0 +1,15 @@
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.AssemblyInfo.cs
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\bin\Debug\net7.0\licao22.exe
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\bin\Debug\net7.0\licao22.deps.json
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\bin\Debug\net7.0\licao22.runtimeconfig.json
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\bin\Debug\net7.0\licao22.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\bin\Debug\net7.0\licao22.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\refint\licao22.dll
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.pdb
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\licao22.genruntimeconfig.cache
+C:\Users\ERICK\Documents\projetos de estudo\licao22\licao22\obj\Debug\net7.0\ref\licao22.dll

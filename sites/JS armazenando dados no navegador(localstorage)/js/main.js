@@ -17,6 +17,7 @@ form.addEventListener("submit", (evento) => {
         "nome" : nome.value,
         "quantidade" : quantidade.value
     }
+    
 
     
     if (existe) {

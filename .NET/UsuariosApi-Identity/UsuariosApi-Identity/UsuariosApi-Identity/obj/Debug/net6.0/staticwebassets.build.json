@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o89Tvws8RQ7tlEfINMkBbS2Y1E8305amgwCTFM8xpbQ=",
+  "Source": "UsuariosApi-Identity",
+  "BasePath": "_content/UsuariosApi-Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

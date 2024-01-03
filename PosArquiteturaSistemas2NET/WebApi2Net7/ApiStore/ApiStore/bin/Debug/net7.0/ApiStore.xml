@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiStore</name>
+    </assembly>
+    <members>
+        <member name="M:ApiStore.Controllers.UsuarioController.ObterTodosComPedidos(System.Int32)">
+            <summary>
+            ObTem todos os usuarios com pedido
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <remarks>
+            Exemplo:
+            Enviar Id para requisição
+            </remarks>
+            <response code="200"> Retorna Sucesso </response>
+            <response code="401"> Não Autenticado </response>
+            <response code="403"> Não Autorizado </response>
+        </member>
+        <member name="T:ApiStore.Migrations.Atualizando">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.Atualizando.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.Atualizando.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.Atualizando.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiStore.Migrations.Adicionando_usuario_senha_permissao">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.Adicionando_usuario_senha_permissao.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.Adicionando_usuario_senha_permissao.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.Adicionando_usuario_senha_permissao.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiStore.Migrations.ATT">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.ATT.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.ATT.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiStore.Migrations.ATT.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

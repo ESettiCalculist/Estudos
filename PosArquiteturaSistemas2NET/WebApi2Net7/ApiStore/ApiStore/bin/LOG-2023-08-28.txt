@@ -1,0 +1,15 @@
+ Information: 0 - Application started. Press Ctrl+C to shut down. 
+ Information: 0 - Hosting environment: Development 
+ Information: 0 - Content root path: C:\Users\ERICK\Documents\WORKSPACE\ESTUDOS\PosArquiteturaSistemas2NET\WebApi2Net7\ApiStore\ApiStore 
+ Error: 0 - Exception forçada 
+ Information: 0 - Application started. Press Ctrl+C to shut down. 
+ Information: 0 - Hosting environment: Development 
+ Information: 0 - Content root path: C:\Users\ERICK\Documents\WORKSPACE\ESTUDOS\PosArquiteturaSistemas2NET\WebApi2Net7\ApiStore\ApiStore 
+ Warning: 0 - Usuario criado com sucesso! | Nome: ApiStore.Dto.CadastrarUsuarioDTO 
+ Error: 0 - 28/08/2023 21:25:40Exception forçada: Deu Erro 
+ Warning: 0 - Usuario criado com sucesso! | Nome: ApiStore.Dto.CadastrarUsuarioDTO 
+ Information: 0 - Application started. Press Ctrl+C to shut down. 
+ Information: 0 - Hosting environment: Development 
+ Information: 0 - Content root path: C:\Users\ERICK\Documents\WORKSPACE\ESTUDOS\PosArquiteturaSistemas2NET\WebApi2Net7\ApiStore\ApiStore 
+ Error: 0 - 28/08/2023 21:27:45Exception forçada: Deu Erro 
+ Warning: 0 - Usuario criado com sucesso! | Nome: Americo 

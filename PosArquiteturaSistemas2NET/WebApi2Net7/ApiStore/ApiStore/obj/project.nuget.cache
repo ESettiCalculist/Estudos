@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cvcshki0KGeZbdtR9S4WNHC/ze0xjYs9W1BdqjXKrbGKWltkw/4Q2NpwCvM2Bmjk4qJTHy5tgzE65jyre94XQQ==",
+  "dgSpecHash": "GYijL0HVMsYj+SgBUmYteWFNL9eIWifTswsPgEW3lYTzam4j+D7/vAAkjiJy+0yjU4/mgbSsZo1G/rb0RRn4hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ERICK\\Documents\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj",
+  "projectFilePath": "C:\\Users\\ERICK\\OneDrive\\Documentos\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ERICK\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ERICK\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

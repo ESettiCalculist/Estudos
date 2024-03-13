@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ERICK\\Documents\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj": {}
+    "C:\\Users\\ERICK\\OneDrive\\Documentos\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ERICK\\Documents\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj": {
+    "C:\\Users\\ERICK\\OneDrive\\Documentos\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ERICK\\Documents\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj",
+        "projectUniqueName": "C:\\Users\\ERICK\\OneDrive\\Documentos\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj",
         "projectName": "ApiStore",
-        "projectPath": "C:\\Users\\ERICK\\Documents\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj",
+        "projectPath": "C:\\Users\\ERICK\\OneDrive\\Documentos\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\ApiStore.csproj",
         "packagesPath": "C:\\Users\\ERICK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ERICK\\Documents\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\obj\\",
+        "outputPath": "C:\\Users\\ERICK\\OneDrive\\Documentos\\WORKSPACE\\ESTUDOS\\PosArquiteturaSistemas2NET\\WebApi2Net7\\ApiStore\\ApiStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ERICK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
